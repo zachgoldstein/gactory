@@ -1,6 +1,6 @@
-# gactory # 
+# Gactory
 
-a go library for quickly grabbing mocks of structs
+a go library for quickly generating new testing instances of structs based on field tags
 
 ## install ##
 
