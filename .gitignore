@@ -1,0 +1,8 @@
+/go_appengine/
+
+/.vendor/
+/.idea/
+
+.DS_Store
+
+/gactory.iml
